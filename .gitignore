@@ -1,0 +1,44 @@
+# --- Unreal Engine 관련 ---
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+Script/
+.pfx
+.pyc
+
+# --- 프로젝트 파일 (빌드 시 재생성 가능) ---
+*.sln
+*.vtable
+*.obj
+*.pdb
+*.suo
+*.user
+*.utxt
+*.intent
+*.uproject.user
+
+# --- 플러그인 폴더 내의 임시 파일 ---
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+
+# --- IDE 및 시스템 관련 ---
+.vs/
+.vscode/
+.idea/
+*.Xcode/
+*.xcworkspace/
+.DS_Store
+
+# --- 외부 툴 및 캐시 ---
+.ignore
+out/
+build/
+.plastic/
+
+# --- 크래시 리포트 및 로그 ---
+Saved/Logs/
+Saved/Crashes/
+
+Content/
