@@ -6,6 +6,7 @@ https://drive.google.com/file/d/118GvcXt6XY_mBrqUzKi9DYaOBEBrCW1W/view?usp=shari
 
 📺 전체 플레이 영상 (Gameplay Video)
 https://youtu.be/ANB4t7hArCU
+
 ---
 
 ### ⚠️ 프로젝트 용량 및 에셋 안내 (Project Size & Asset Notice)
