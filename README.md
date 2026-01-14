@@ -23,6 +23,18 @@ Windows Download : https://drive.google.com/file/d/118GvcXt6XY_mBrqUzKi9DYaOBEBr
 Enhance Project-Ark
 https://github.com/Cha-nu/game
 
+## 🛠️ 외부 에셋 (External Assets)
+
+프로젝트의 비주얼 및 시스템 완성도를 위해 다음의 언리얼 마켓플레이스(Fab) 에셋을 사용하였습니다.
+
+| 분류 | 에셋 이름 | 제작자 / 출처 | 라이선스 |
+| :--- | :--- | :--- | :--- |
+| **System** | Advanced Crosshair System | Unreal Marketplace | [Standard License](https://www.unrealengine.com/eula/content) |
+| **Character** | Paragon: Wraith | Epic Games | [UE-Only Content](https://www.unrealengine.com/eula/content) |
+| **Character** | Paragon: Crunch | Epic Games | [UE-Only Content](https://www.unrealengine.com/eula/content) |
+| **Character** | Paragon: Howitzer | Epic Games | [UE-Only Content](https://www.unrealengine.com/eula/content) |
+| **Environment** | Mini Kit: Neo City | Kitbash3D / Marketplace | [Standard License](https://www.unrealengine.com/eula/content) |
+
 ## 🎵 Music Credits
 | Usage | Track Title | Author | License |
 | :--- | :--- | :--- | :--- |
