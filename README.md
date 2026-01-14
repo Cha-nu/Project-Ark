@@ -33,7 +33,7 @@ https://youtu.be/ANB4t7hArCU
 | :--- | :--- | :--- |
 | <kbd>W</kbd> <kbd>A</kbd> <kbd>S</kbd> <kbd>D</kbd> | 캐릭터 이동 (Movement) | 기본 이동 |
 | <kbd>Q</kbd> | 숄더 그레네이드 (Shoulder Grenade) | 특수 스킬 |
-| <kbd>E</kbd> | 저격 모드 전환 (Sniper Mode) | 모드 전환 |
+| <kbd>E</kbd> | 저격 (Sniper) | 특수 스킬 |
 
 Enhance Project-Ark
 https://github.com/Cha-nu/game
