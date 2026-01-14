@@ -1,6 +1,25 @@
 # Project-Ark
+## 🎮 조작 방법 (Controls)
+
+본 게임은 표준적인 TPS 조작 방식을 따르며, 어두운 Sci-fi 분위기에 맞춘 특수 액션을 포함하고 있습니다.
+
+### 🖱️ 마우스 조작 (Mouse)
+| 입력 | 기능 |
+| :--- | :--- |
+| **마우스 이동** | 시점 전환 (Look Around) |
+| **왼쪽 클릭 (L-Click)** | 사격 (Fire) |
+| **오른쪽 클릭 (R-Click)** | 조준 / 줌 (Aim / Zoom) |
+
+### ⌨️ 키보드 조작 (Keyboard)
+| 입력 | 기능 | 분류 |
+| :--- | :--- | :--- |
+| <kbd>W</kbd> <kbd>A</kbd> <kbd>S</kbd> <kbd>D</kbd> | 캐릭터 이동 (Movement) | 기본 이동 |
+| <kbd>Q</kbd> | 숄더 그레네이드 (Shoulder Grenade) | 특수 스킬 |
+| <kbd>E</kbd> | 저격 모드 전환 (Sniper Mode) | 모드 전환 |
+
 Enhance Project-Ark
 https://github.com/Cha-nu/game
+
 ## 🎵 Music Credits
 | Usage | Track Title | Author | License |
 | :--- | :--- | :--- | :--- |
