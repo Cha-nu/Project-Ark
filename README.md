@@ -1,4 +1,6 @@
 # Project-Ark
+![ProjectArk](https://github.com/user-attachments/assets/8a95bab2-a8f1-41f2-922e-86393a63af47)
+
 Windows Download : https://drive.google.com/file/d/118GvcXt6XY_mBrqUzKi9DYaOBEBrCW1W/view?usp=sharing
 ## 🎮 조작 방법 (Controls)
 
