@@ -1,0 +1,48 @@
+# ===============================================
+# Unreal Engine 5.4.4 + VS Code .gitignore
+# ===============================================
+
+# --- 필수 제외 항목 (임시 및 빌드 파일) ---
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+.pvs-studio/
+pcache/
+
+# --- IDE 관련 (VS Code & Visual Studio) ---
+.vs/
+.vscode/*
+!.vscode/launch.json
+!.vscode/tasks.json
+!.vscode/settings.json
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# --- OS 및 기타 파일 ---
+Thumbs.db
+*.tmp
+*.bak
+*.user
+
+# --- Content 폴더 관리 (가장 중요한 부분) ---
+# 1. 일단 Content 내의 모든 것을 무시
+Content/*
+
+# 2. 하지만 Developer 폴더 (추적 허용).
+!Content/Developer/
+
+# --- 필수 프로젝트 파일 (추적 허용) ---
+!.uproject
+!Config/
+!Source/
+
+# --- 기타 예외 ---
+# 프로젝트 루트에 있는 README나 .gitignore 자체는 포함
+!.gitignore
+!README.md
