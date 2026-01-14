@@ -11,7 +11,7 @@ https://youtu.be/ANB4t7hArCU
 
 ### ⚠️ 프로젝트 용량 및 에셋 안내 (Project Size & Asset Notice)
 
-**KO:** 본 리포지토리는 깃허브의 용량 제한 및 효율적인 버전 관리를 위해 **실제 에셋 파일(Mesh, Texture, Animation 등)을 포함하고 있지 않습니다.** 소스 코드와 블루프린트 구조, 구성 설정 파일 위주로 업로드되었습니다. 플레이 가능한 전체 빌드 파일은 아래의 [Download] 링크를 확인해 주세요.
+**KO:** 본 리포지토리는 깃허브의 용량 제한 및 효율적인 버전 관리를 위해 **실제 에셋 파일(Mesh, Texture, Animation 등)을 포함하고 있지 않습니다.**
 
 **EN:** Due to GitHub's storage limits and efficient version control, **this repository does not include the actual asset files (Meshes, Textures, Animations, etc.)** This repository primarily contains source code, blueprint structures, and configuration files.
 
